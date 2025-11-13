@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @mikejwhat
 - 👀 I’m interested in PowerShell, dotnet, Azure, Docker and Kubernetes
-- 🌱 I’m currently learning Kubernetes
 - 💞️ I’m looking to collaborate on any interesting PowerShell projects
 - 📫 Reach me on LinkedIn
 
